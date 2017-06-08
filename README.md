@@ -11,9 +11,14 @@ http://repository.edm-forum.org/dqc
 # References
 
 •	Achilles
+
   •	https://github.com/OHDSI/Achilles 
+  
 •	PEDSnet
+
   •	https://github.com/PEDSnet/Data-Quality-Analysis
+  
 •	Multiple
+
   •	https://github.com/hestiri/DQe-v 
 
