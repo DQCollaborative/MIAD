@@ -21,4 +21,5 @@ http://repository.edm-forum.org/dqc
 •	Multiple
 
   •	https://github.com/hestiri/DQe-v 
+  - https://github.com/hestiri/DQe-c
 
